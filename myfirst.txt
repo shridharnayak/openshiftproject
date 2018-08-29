@@ -1,1 +1,2 @@
 This is my first file for git repository learning.
+This is second line that I have added via git console.
